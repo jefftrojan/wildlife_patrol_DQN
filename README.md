@@ -118,4 +118,6 @@ tensorboard --logdir=./wildlife_patrol_tensorboard/
 - The simulation runs at a fixed 2 FPS for visibility
 
 
-# wildlife_patrol_DQN
+### demo video link 
+
+- https://youtu.be/vKehofkK_Ao 

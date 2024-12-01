@@ -1,4 +1,6 @@
 from stable_baselines3 import PPO
+from stable_baselines3 import DQN
+
 from stable_baselines3.common.vec_env import DummyVecEnv
 from stable_baselines3.common.callbacks import BaseCallback
 from wildlife_patrol_env import WildlifePatrolEnv
