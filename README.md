@@ -61,9 +61,9 @@ python train.py
 ```
 This will:
 - Create the custom environment
-- Initialize a PPO agent
+- Initialize a PPO/DQN agent
 - Train for 1 million timesteps
-- Save the trained model as "wildlife_patrol_ppo"
+- Save the trained model as "wildlife_patrol"
 - Generate tensorboard logs in "./wildlife_patrol_tensorboard/"
 
 ### Running the Simulation
