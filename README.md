@@ -120,4 +120,8 @@ tensorboard --logdir=./wildlife_patrol_tensorboard/
 
 ### demo video link 
 
-- https://youtu.be/vKehofkK_Ao 
+-   https://youtu.be/vKehofkK_Ao 
+
+### simulation video link 
+
+- https://drive.google.com/file/d/1veJZ0wZ4PyJlD_E7AeNu4Q4n8U6JQt0f/view?usp=sharing
